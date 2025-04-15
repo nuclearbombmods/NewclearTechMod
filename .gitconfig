@@ -1,0 +1,8 @@
+[user]
+    name = nuclearbombmods
+    email = aidenakella@outlook.com
+[core]
+    autocrlf = true
+    filemode = false
+[push]
+    default = simple 
